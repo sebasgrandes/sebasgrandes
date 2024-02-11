@@ -38,7 +38,6 @@ Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cur
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
-
 #
 
 ### 💻 Proyectos Destacados
@@ -56,19 +55,6 @@ Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cur
 </p>
 
 <a href="https://github.com/sebasgrandes?tab=repositories"><img alt="Todos los Repositorios" title="Todos los Repositorios" src="https://img.shields.io/badge/Todos%20Mis%20Repositorios-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=313649&color=3f4965"/></a>
-
-<!--
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sebasgrandes/adidas-landing-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=adidas-landing-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sebasgrandes/apv-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apv-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/sebasgrandes/agenciaViajesNode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=agenciaViajesNode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sebasgrandes/projects-js-modern" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-js-modern&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br />
--->
 
 #
 
