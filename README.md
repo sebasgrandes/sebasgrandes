@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=1F2328&vCenter=true&random=false&width=440&height=35&lines=%F0%9F%91%8B+Hola%2C+soy+Sebastian+Grandes;%F0%9F%99%8C+Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=4d597c&vCenter=true&random=false&width=440&height=35&lines=%F0%9F%91%8B+Hola%2C+soy+Sebastian+Grandes;%F0%9F%99%8C+Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)  
 
 **`Apasionado por el Desarrollo Web y la Tecnología | Estudiante de Ingeniería Ambiental (UNI)`**
 
