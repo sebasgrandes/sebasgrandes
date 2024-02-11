@@ -25,6 +25,7 @@ Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cur
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -36,6 +37,40 @@ Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cur
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
+
+
+#
+
+<h3>📘 My Top Open Source Projects</h3>
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/sebasgrandes/adidas-landing-react"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=adidas-landing-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="adidas-landing-react"></a>
+  <a href="https://github.com/sebasgrandes/agenciaViajesNode"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=agenciaViajesNode&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="agenciaViajesNode"></a>
+  <a href="https://github.com/sebasgrandes/apv-frontend"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=sebasgrandes&repo=apv-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apv-frontend"></a>
+  <a href="https://github.com/sebasgrandes/projects-javascript30"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-javascript30&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="projects-javascript30"></a>
+  <a href="https://github.com/sebasgrandes/frontend-mentor-proyectos"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=frontend-mentor-proyectos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="frontend-mentor-proyectos"></a>
+  <a href="https://github.com/sebasgrandes/apuntes-sql-devtalles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apuntes-sql-devtalles&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apuntes-sql-devtalles"></a>
+  <a href="https://github.com/sebasgrandes/projects-js-modern"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-js-modern&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="projects-js-modern"></a>
+  <a href="https://github.com/sebasgrandes/projects-dwc"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-dwc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="projects-dwc"></a>
+  <a href="https://github.com/sebasgrandes/apuntes-git-devtalles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apuntes-git-devtalles&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="apuntes-git-devtalles"></a>
+</p>
+
+<a href="https://github.com/sebasgrandes?tab=repositories"><img alt="Todos los Repositorios" title="Todos los Repositorios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Mis%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<!--
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/sebasgrandes/adidas-landing-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=adidas-landing-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sebasgrandes/apv-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apv-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/sebasgrandes/agenciaViajesNode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=agenciaViajesNode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sebasgrandes/projects-js-modern" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-js-modern&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
+-->
 
 #
 
