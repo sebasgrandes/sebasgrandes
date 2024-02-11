@@ -8,7 +8,7 @@ Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cur
   <a href="https://www.linkedin.com/in/sebasgrandes">
      <img alt="Perfil de LinkedIn de Sebastian Grandes" title="Conversemos por LinkedIn" src="https://img.shields.io/badge/sebasgrandes-sebasgrandes?style=for-the-badge&logo=linkedin&labelColor=005fbd&color=006cd7"/></a> 
   <a href="https://github.com/sebasgrandes?tab=repositories">
-     <img alt="Repositorios de Sebastian Grandes en GitHub" title="Mis repositorios" src="https://img.shields.io/badge/Mis%20Repos-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=3e893e&color=47a248"/></a>
+     <img alt="Repositorios de Sebastian Grandes en GitHub" title="Mis repositorios" src="https://img.shields.io/badge/Mis%20Repositorios-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=000000&color=1F222E"/></a>
   <a href="#">
      <img alt="Ubicación de Sebastian Grandes" title="Lima, Perú" src="https://img.shields.io/badge/Per%C3%BA-sebasgrandes?style=for-the-badge&logo=googlemaps&logoColor=white&label=Lima&labelColor=c94034&color=ea4335"/></a>  
   <a href="https://sebastiangrandes.com">
@@ -41,23 +41,21 @@ Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cur
 
 #
 
-<h3>📘 My Top Open Source Projects</h3>
+### 💻 Proyectos Destacados
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/sebasgrandes/adidas-landing-react"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=adidas-landing-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="adidas-landing-react"></a>
-  <a href="https://github.com/sebasgrandes/agenciaViajesNode"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=agenciaViajesNode&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="agenciaViajesNode"></a>
-  <a href="https://github.com/sebasgrandes/apv-frontend"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=sebasgrandes&repo=apv-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apv-frontend"></a>
-  <a href="https://github.com/sebasgrandes/projects-javascript30"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-javascript30&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="projects-javascript30"></a>
-  <a href="https://github.com/sebasgrandes/frontend-mentor-proyectos"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=frontend-mentor-proyectos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="frontend-mentor-proyectos"></a>
-  <a href="https://github.com/sebasgrandes/apuntes-sql-devtalles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apuntes-sql-devtalles&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apuntes-sql-devtalles"></a>
-  <a href="https://github.com/sebasgrandes/projects-js-modern"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-js-modern&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="projects-js-modern"></a>
-  <a href="https://github.com/sebasgrandes/projects-dwc"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-dwc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="projects-dwc"></a>
-  <a href="https://github.com/sebasgrandes/apuntes-git-devtalles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apuntes-git-devtalles&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="apuntes-git-devtalles"></a>
+  <a href="https://github.com/sebasgrandes/adidas-landing-react"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=adidas-landing-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="adidas-landing-react"></a>
+  <a href="https://github.com/sebasgrandes/agenciaViajesNode"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=agenciaViajesNode&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="agenciaViajesNode"></a>
+  <a href="https://github.com/sebasgrandes/apv-frontend"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin?username=sebasgrandes&repo=apv-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apv-frontend"></a>
+  <a href="https://github.com/sebasgrandes/projects-javascript30"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-javascript30&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="projects-javascript30"></a>
+  <a href="https://github.com/sebasgrandes/frontend-mentor-proyectos"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=frontend-mentor-proyectos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="frontend-mentor-proyectos"></a>
+  <a href="https://github.com/sebasgrandes/apuntes-sql-devtalles"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apuntes-sql-devtalles&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apuntes-sql-devtalles"></a>
+  <a href="https://github.com/sebasgrandes/projects-js-modern"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-js-modern&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="projects-js-modern"></a>
+  <a href="https://github.com/sebasgrandes/projects-dwc"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-dwc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="projects-dwc"></a>
+  <a href="https://github.com/sebasgrandes/apuntes-git-devtalles"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apuntes-git-devtalles&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="apuntes-git-devtalles"></a>
 </p>
 
-<a href="https://github.com/sebasgrandes?tab=repositories"><img alt="Todos los Repositorios" title="Todos los Repositorios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Mis%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/sebasgrandes?tab=repositories"><img alt="Todos los Repositorios" title="Todos los Repositorios" src="https://img.shields.io/badge/Todos%20Mis%20Repositorios-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=000000&color=1F222E"/></a>
 
 <!--
 <b>Top Repositories</b>
