@@ -9,13 +9,12 @@ Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cur
      <img alt="Perfil de LinkedIn de Sebastian Grandes" title="Conversemos por LinkedIn" src="https://img.shields.io/badge/sebasgrandes-sebasgrandes?style=for-the-badge&logo=linkedin&labelColor=005fbd&color=006cd7"/></a> 
   <a href="https://github.com/sebasgrandes?tab=repositories">
      <img alt="Repositorios de Sebastian Grandes en GitHub" title="Mis repositorios" src="https://img.shields.io/badge/Mis%20Repositorios-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=313649&color=3f4965"/></a>
-  <a href="#">
-     <img alt="Ubicación de Sebastian Grandes" title="Lima, Perú" src="https://img.shields.io/badge/Per%C3%BA-sebasgrandes?style=for-the-badge&logo=googlemaps&logoColor=white&label=Lima&labelColor=c94034&color=ea4335"/></a>  
   <a href="https://sebastiangrandes.com">
      <img alt="Sitio web personal de Sebastian Grandes" title="sitio web sebastiangrandes.com" src="https://img.shields.io/badge/sebastiangrandes.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0000b7&color=0000df"/></a> 
   <a href="https://hausean.com">
      <img alt="Sitio web de Hausean de Sebastian Grandes" title="sitio web hausean.com" src="https://img.shields.io/badge/hausean.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4d00c7&color=6300ff"/></a>
-  
+  <a href="#">
+     <img alt="Ubicación de Sebastian Grandes" title="Lima, Perú" src="https://img.shields.io/badge/Per%C3%BA-sebasgrandes?style=for-the-badge&logo=googlemaps&logoColor=white&label=Lima&labelColor=c94034&color=ea4335"/></a>
 </p>
 
 ---
