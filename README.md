@@ -2,7 +2,7 @@
 
 **`Apasionado por el Desarrollo Web y la Tecnología | Egresado de Ingeniería Ambiental (UNI)`**
 
-Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cursos en línea y realizo proyectos prácticos para mejorar mis habilidades. Tengo experiencia en WordPress en donde he creado diversos sitios web, tiendas en línea y academias virtuales, además cuento con un sólido trasfondo universitario en prácticas ambientales. Siempre estoy listo para afrontar nuevos desafíos y colaborar en proyectos emocionantes. ¡Conectemos en [LinkedIn](https://www.linkedin.com/in/sebasgrandes/) y conversemos!
+Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cursos en línea y realizo proyectos prácticos para mejorar mis habilidades. Tengo experiencia en WordPress en donde he creado diversos sitios web, tiendas en línea y academias virtuales, además cuento con un sólido trasfondo universitario en Ingeniería Ambiental en la prestigiosa UNI. Siempre estoy listo para afrontar nuevos desafíos y colaborar en proyectos emocionantes. ¡Conectemos en [LinkedIn](https://www.linkedin.com/in/sebasgrandes/) y conversemos!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sebasgrandes">
