@@ -13,8 +13,8 @@ Me encanta la programación, especialmente el desarrollo web y la ciencia de dat
      <img alt="Repositorios de Sebastian Grandes en GitHub" title="Mis repositorios" src="https://img.shields.io/badge/Mis%20Repositorios-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=313649&color=3f4965"/></a> -->
   <a href="https://sebastiangrandes.com">
      <img alt="Sitio web personal de Sebastian Grandes" title="sitio web sebastiangrandes.com" src="https://img.shields.io/badge/sebastiangrandes.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0000b7&color=0000df"/></a> 
-  <a href="https://hausean.com">
-     <img alt="Sitio web de Hausean de Sebastian Grandes" title="sitio web hausean.com" src="https://img.shields.io/badge/hausean.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4d00c7&color=6300ff"/></a>
+<!--   <a href="https://hausean.com">
+     <img alt="Sitio web de Hausean de Sebastian Grandes" title="sitio web hausean.com" src="https://img.shields.io/badge/hausean.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4d00c7&color=6300ff"/></a> -->
 </p>
 
 ---
