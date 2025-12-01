@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=4d597c&vCenter=true&random=false&width=440&height=35&lines=%F0%9F%91%8B+Hola%2C+soy+Sebastian+Grandes;%F0%9F%99%8C+Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)  
 
-**`Entusiasta de la Programación y Tecnología // Egresado de Ingeniería Ambiental (UNI) // Practicante de Recursos Hidricos @AtkinsRéalis`**
+**`Entusiasta de la Programación y Tecnología // Bachiller de Ingeniería Ambiental (UNI) // Especialista Ambiental Junior (AtkinsRéalis)`**
 
 Me encanta la programación, especialmente el desarrollo web y la ciencia de datos, constantemente estoy aprendiendo de forma autodidacta. Llevo cursos en línea y realizo proyectos prácticos para mejorar mis habilidades. Tengo experiencia en WordPress en donde he creado diversos sitios web, tiendas en línea y academias virtuales, además cuento con un sólido trasfondo universitario en Ingeniería Ambiental en la prestigiosa Universidad Nacional de Ingeniería del Perú. Siempre estoy listo para afrontar nuevos desafíos y colaborar en proyectos emocionantes. Me encanta conocer personas,¡Conectemos en [LinkedIn](https://www.linkedin.com/in/sebasgrandes/) y conversemos!
 
