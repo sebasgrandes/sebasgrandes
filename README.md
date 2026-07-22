@@ -2,7 +2,7 @@
 
 **`Entusiasta de la Programación y Tecnología // Bachiller de Ingeniería Ambiental (UNI) // Especialista Ambiental Junior (AtkinsRéalis)`**
 
-Me encanta la programación, especialmente el desarrollo web y la ciencia de datos, constantemente estoy aprendiendo de forma autodidacta. Llevo cursos en línea y realizo proyectos prácticos para mejorar mis habilidades. Tengo experiencia en WordPress en donde he creado diversos sitios web, tiendas en línea y academias virtuales, además cuento con un sólido trasfondo universitario en Ingeniería Ambiental en la prestigiosa Universidad Nacional de Ingeniería del Perú. Siempre estoy listo para afrontar nuevos desafíos y colaborar en proyectos emocionantes. Me encanta conocer personas,¡Conectemos en [LinkedIn](https://www.linkedin.com/in/sebasgrandes/) y conversemos!
+Me encanta la programación, especialmente el desarrollo web y la automatización, constantemente estoy aprendiendo de forma autodidacta. Llevo cursos en línea y realizo proyectos prácticos para mejorar mis habilidades. Tengo experiencia en WordPress en donde he creado diversos sitios web, tiendas en línea y academias virtuales, además cuento con un sólido trasfondo universitario en Ingeniería Ambiental en la prestigiosa Universidad Nacional de Ingeniería del Perú. Siempre estoy listo para afrontar nuevos desafíos y colaborar en proyectos emocionantes. Me encanta conocer personas,¡Conectemos en [LinkedIn](https://www.linkedin.com/in/sebasgrandes/) y conversemos!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sebasgrandes">
