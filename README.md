@@ -10,11 +10,11 @@ Desarrollo software que los equipos usan en su día a día. Primero entiendo có
 Trabajo en el equipo de Innovación Digital de AtkinsRéalis, empresa multinacional de ingeniería, donde creo herramientas para el área socioambiental en proyectos para clientes de gran minería.
 
 <p align="left">
+  <a href="https://sebastiangrandes.com">
+     <img alt="Sitio web personal de Sebastian Grandes" title="sitio web sebastiangrandes.com" src="https://img.shields.io/badge/sebastiangrandes.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0000b7&color=0000df"/></a> 
   <a href="https://www.linkedin.com/in/sebasgrandes">
      <img alt="Perfil de LinkedIn de Sebastian Grandes" title="Conversemos por LinkedIn" src="https://img.shields.io/badge/sebasgrandes-sebasgrandes?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==&labelColor=005fbd&color=006cd7"/></a> 
   <img alt="Ubicación de Sebastian Grandes" title="Lima, Perú" src="https://img.shields.io/badge/Per%C3%BA-sebasgrandes?style=for-the-badge&logo=googlemaps&logoColor=white&label=Lima&labelColor=c94034&color=ea4335"/>
-  <a href="https://sebastiangrandes.com">
-     <img alt="Sitio web personal de Sebastian Grandes" title="sitio web sebastiangrandes.com" src="https://img.shields.io/badge/sebastiangrandes.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0000b7&color=0000df"/></a> 
 </p>
 
 ---
