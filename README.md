@@ -1,59 +1,64 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=4d597c&vCenter=true&random=false&width=440&height=35&lines=%F0%9F%91%8B+Hola%2C+soy+Sebastian+Grandes;%F0%9F%99%8C+Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)  
 
-**`Entusiasta de la Programación y Tecnología // Bachiller de Ingeniería Ambiental (UNI) // Especialista Ambiental Junior (AtkinsRéalis)`**
+**`Desarrollador de software y automatización // Innovación Digital en AtkinsRéalis`**
 
-Me encanta la programación, especialmente el desarrollo web y la automatización, constantemente estoy aprendiendo de forma autodidacta. Llevo cursos en línea y realizo proyectos prácticos para mejorar mis habilidades. Tengo experiencia en WordPress en donde he creado diversos sitios web, tiendas en línea y academias virtuales, además cuento con un sólido trasfondo universitario en Ingeniería Ambiental en la prestigiosa Universidad Nacional de Ingeniería del Perú. Siempre estoy listo para afrontar nuevos desafíos y colaborar en proyectos emocionantes. Me encanta conocer personas,¡Conectemos en [LinkedIn](https://www.linkedin.com/in/sebasgrandes/) y conversemos!
+Desarrollo software que los equipos usan en su día a día. Primero entiendo cómo trabajan, y después construyo lo que necesitan.
+
+Trabajo en el equipo de Innovación Digital de AtkinsRéalis, empresa multinacional de ingeniería, donde creo herramientas para el área socioambiental en proyectos para clientes de gran minería.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sebasgrandes">
      <img alt="Perfil de LinkedIn de Sebastian Grandes" title="Conversemos por LinkedIn" src="https://img.shields.io/badge/sebasgrandes-sebasgrandes?style=for-the-badge&logo=linkedin&labelColor=005fbd&color=006cd7"/></a> 
   <a href="#">
      <img alt="Ubicación de Sebastian Grandes" title="Lima, Perú" src="https://img.shields.io/badge/Per%C3%BA-sebasgrandes?style=for-the-badge&logo=googlemaps&logoColor=white&label=Lima&labelColor=c94034&color=ea4335"/></a>
-<!--   <a href="https://github.com/sebasgrandes?tab=repositories">
-     <img alt="Repositorios de Sebastian Grandes en GitHub" title="Mis repositorios" src="https://img.shields.io/badge/Mis%20Repositorios-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=313649&color=3f4965"/></a> -->
   <a href="https://sebastiangrandes.com">
      <img alt="Sitio web personal de Sebastian Grandes" title="sitio web sebastiangrandes.com" src="https://img.shields.io/badge/sebastiangrandes.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0000b7&color=0000df"/></a> 
-<!--   <a href="https://hausean.com">
-     <img alt="Sitio web de Hausean de Sebastian Grandes" title="sitio web hausean.com" src="https://img.shields.io/badge/hausean.com-sebasgrandes?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4d00c7&color=6300ff"/></a> -->
 </p>
 
 ---
 
-### 🧰 Lenguajes y Herramientas
+### Con qué trabajo
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-<br />
-
-#
-
-### 💻 Proyectos Destacados
+<img align="left" alt="Claude Code" title="Claude Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="pandas" title="pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Playwright" title="Playwright" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+<img align="left" alt="QGIS" title="QGIS" width="30px" src="https://cdn.simpleicons.org/qgis/589632" />
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Cloudflare" title="Cloudflare" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+<br clear="left" />
 
 <p align="left">
-  <a href="https://github.com/sebasgrandes/adidas-landing-react"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=adidas-landing-react&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false" alt="adidas-landing-react"></a>
-  <a href="https://github.com/sebasgrandes/apv-frontend"><img width="360" src="https://github-readme-stats.vercel.app/api/pin?username=sebasgrandes&repo=apv-frontend&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false" alt="apv-frontend"></a>
-  <a href="https://github.com/sebasgrandes/agenciaViajesNode"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=agenciaViajesNode&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false" alt="agenciaViajesNode"></a>
-  <a href="https://github.com/sebasgrandes/projects-js-modern"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-js-modern&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false&show_description=false" alt="projects-js-modern"></a>
-  <a href="https://github.com/sebasgrandes/projects-javascript30"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-javascript30&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false" alt="projects-javascript30"></a>
-  <a href="https://github.com/sebasgrandes/projects-dwc"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=projects-dwc&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false&show_description=false" alt="projects-dwc"></a>
-  <a href="https://github.com/sebasgrandes/apuntes-sql-devtalles"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=apuntes-sql-devtalles&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false" alt="apuntes-sql-devtalles"></a>
-  <a href="https://github.com/sebasgrandes/frontend-mentor-proyectos"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=sebasgrandes&repo=frontend-mentor-proyectos&theme=react&bg_color=4d597c&title_color=f6f7f9&hide_border=true&icon_color=26c9fc&show_icons=false" alt="frontend-mentor-proyectos"></a>
+  <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge"/>
+  <img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge"/>
+  <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge"/>
+  <img alt="Microsoft 365 Copilot" src="https://img.shields.io/badge/Microsoft%20365%20Copilot-5E5E5E?style=for-the-badge"/>
 </p>
 
-<a href="https://github.com/sebasgrandes?tab=repositories"><img alt="Todos los Repositorios" title="Todos los Repositorios" src="https://img.shields.io/badge/Todos%20Mis%20Repositorios-sebasgrandes?style=for-the-badge&logo=files&logoColor=white&labelColor=313649&color=3f4965"/></a>
+---
 
-#
+### Algunos de mis proyectos
 
-Hecho con ❤️ por [Sebastian Grandes Conqui](https://www.linkedin.com/in/sebasgrandes).
+- **Aplicativos de datos ambientales** · AtkinsRéalis · Python, pandas, openpyxl  
+  Desarrollé 44 aplicativos que automatizan gran parte del flujo de datos de los estudios ambientales, desde la compilación de informes de laboratorio hasta la creación de tablas y gráficos. Uno de ellos compila datos de 500 informes en 5 minutos, lo cual antes tomaba hasta dos semanas.
+
+- **App de solicitudes** · AtkinsRéalis · Power Apps, Power Automate, Power BI  
+  Creé una app que centraliza las solicitudes de nuevas aplicaciones y de licencias de Copilot de toda la organización en Perú. Ahora cada solicitud sigue un proceso ordenado, sin archivos sueltos ni correos de ida y vuelta.
+
+- **Datos de campo con Mergin Maps** · AtkinsRéalis · Mergin Maps, QGIS  
+  Implementé Mergin Maps, una app para registrar datos de campo desde el celular, en 5 equipos del área socioambiental, con formularios digitales y proyectos de QGIS que creé. Ahora los datos que toman los consultores llegan al servidor al instante, sin transcribirse a mano.
+
+- **Sistema de almacén, cotización y proyectos** · LTA Industrial, como independiente · TypeScript, Next.js, PostgreSQL  
+  Construí el sistema desde el análisis del negocio hasta el despliegue en un VPS, con pruebas automáticas. Ahora cotizar les toma un par de clics (antes les tomaba horas en Excel).
+
+Desarrollo usando IA (Claude Code) como herramienta y, como regla personal, siempre me aseguro de ser el arquitecto de lo que construyo. Divido cada aplicación en fases. Antes de pasar a la siguiente, pruebo la fase anterior a mano y con Playwright.
+
+El código de estos proyectos es privado, porque pertenece a AtkinsRéalis o al cliente. Lo público aquí son los cursos y retos con los que aprendí desarrollo web, entre 2023 y 2024.
